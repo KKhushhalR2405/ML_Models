@@ -4,5 +4,5 @@
 
 ### Machine Learning Algorithm Used
 
->Linear Regression
->Random Forest
+* Linear Regression
+* Random Forest
