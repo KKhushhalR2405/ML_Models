@@ -1,5 +1,5 @@
 # ML_Models
-A Series of different Machine Learning Models
+A Series of different Machine Learning Model
 
 
 
